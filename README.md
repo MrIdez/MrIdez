@@ -25,3 +25,5 @@ Presentation
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
+
+[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrIdez)](https://github.com/anuraghazra/github-readme-stats)
