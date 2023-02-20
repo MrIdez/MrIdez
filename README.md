@@ -1,4 +1,4 @@
-### Bienvenue
+### Bienvenue/Welcome
 
 <!--
 **MrIdez/MrIdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Presentation
+#### FR
+[EN](#en-) 
 
+Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire de Technologie(BUT) informatique à Lannion(23).
 
----
+Vous retrouverez sur ce Github tout mes projets que j'ai réalisé lors de mes études :
+* Projet en Python
+* Projet en Java
+* Situation d'apprentissage et d'évaluation (SAE) réalisé lors de mon BUT
+* Projet Web
 
-### :hammer_and_wrench: Langages and Outils :
+—
+
+#### EN 
+[FR](#FR)
+
+I'm Guillaume Baron, student in first year of  Bachelor Universitaire de Technologie(BUT) in Lannion (23).
+
+  
+You will find on this Github all my projects that I realized during my studies:
+
+* Project in Python
+
+* Project in Java
+
+* Situation of learning and evaluation (SAE) realized during my BUT
+
+* Web project
+
+—
+
+### :hammer_and_wrench: Langages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
