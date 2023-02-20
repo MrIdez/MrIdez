@@ -22,8 +22,11 @@ Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire
 
 Vous retrouverez sur ce Github tout mes projets que j'ai réalisé lors de mes études :
 * Projet en Python
+
 * Projet en Java
+
 * Situation d'apprentissage et d'évaluation (SAE) réalisé lors de mon BUT
+
 * Projet Web
 
 —
