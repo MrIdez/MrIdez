@@ -60,9 +60,9 @@ You will find on this Github all my projects that I realized during my studies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
+
 [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrIdez)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 ## 🔗 Links
 <a href="https://www.linkedin.com/in/guillaume-baron-695223269/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yanis-fouad-871170262" height="30" width="30" /></a>
