@@ -23,9 +23,9 @@ Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire
 Vous retrouverez sur ce Github tout mes projets que j'ai réalisé lors de mes études :
 * Projet en Python
 
-* Projet en Java
+* [Projet en Java](https://github.com/MrIdez/Projet_Java)
 
-* Situation d'apprentissage et d'évaluation (SAE) réalisé lors de mon BUT
+* [Situation d'apprentissage et d'évaluation (SAE) réalisé lors de mon BUT](https://github.com/MrIdez/SAE)
 
 * Projet Web
 
@@ -41,9 +41,9 @@ You will find on this Github all my projects that I realized during my studies:
 
 * Project in Python
 
-* Project in Java
+* [Project in Java](https://github.com/MrIdez/Projet_Java)
 
-* Situation of learning and evaluation (SAE) realized during my BUT
+* [Situation of learning and evaluation (SAE) realized during my BUT](https://github.com/MrIdez/SAE)
 
 * Web project
 
@@ -65,7 +65,4 @@ You will find on this Github all my projects that I realized during my studies:
 -->
 
 ## 🔗 Links
-<!--
-[portfolio\](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)\](https://katherineoelsner.com/)
- -->
-[[linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-baron-695223269/)
+<a href="https://www.linkedin.com/in/guillaume-baron-695223269/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yanis-fouad-871170262" height="30" width="30" /></a>
