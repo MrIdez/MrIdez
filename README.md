@@ -18,34 +18,39 @@ Here are some ideas to get you started:
 #### FR
 [EN](#en-) 
 
-Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire de Technologie(BUT) informatique à Lannion(23).
+Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire de Technologie(BUT) informatique à Lannion (23).
 
-Vous retrouverez sur ce Github tout mes projets que j'ai réalisé lors de mes études :
-* Projet en Python
+Vous retrouverez sur ce Github tout mes projets que j'ai réalisé, qu'ils soient personnel ou universitaire :
+<!-- * Projet en Python (
 
+  * Projet Web
+-->
 * [Projet en Java](https://github.com/MrIdez/Projet_Java)
 
 * [Situation d'apprentissage et d'évaluation (SAE) réalisé lors de mon BUT](https://github.com/MrIdez/SAE)
 
-* Projet Web
+
 
 —
 
 #### EN 
 [FR](#FR)
 
-I'm Guillaume Baron, student in first year of  Bachelor Universitaire de Technologie(BUT) in Lannion (23).
+I'm Guillaume Baron, student in first year of  Bachelor Universitaire de Technologie(BUT) in Lannion (Britany, France).
 
   
 You will find on this Github all my projects that I realized during my studies:
 
+<!--
 * Project in Python
+
+* Web project -->
 
 * [Project in Java](https://github.com/MrIdez/Projet_Java)
 
 * [Situation of learning and evaluation (SAE) realized during my BUT](https://github.com/MrIdez/SAE)
 
-* Web project
+
 
 —
 
@@ -59,6 +64,8 @@ You will find on this Github all my projects that I realized during my studies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 
 [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrIdez)](https://github.com/anuraghazra/github-readme-stats)
