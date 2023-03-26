@@ -23,13 +23,13 @@ Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire
 Vous retrouverez sur ce Github tout mes projets que j'ai réalisé, qu'ils soient personnel ou universitaire :
 <!-- * Projet en Python (
 
-  * Projet Web
+  
 -->
 * [Projet en Java](https://github.com/MrIdez/Projet_Java)
 
 * [Situation d'apprentissage et d'évaluation (SAE) réalisé lors de mon BUT](https://github.com/MrIdez/SAE)
 
-
+* [Projet ”Site web bataille”](https://github.com/MrIdez/Bataille_React)
 
 —
 
