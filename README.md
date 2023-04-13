@@ -1,28 +1,13 @@
 ### Bienvenue/Welcome
 
-<!--
-**MrIdez/MrIdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #### FR
 
-[EN](#en-)
+[EN](#en)
 
-Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire de Technologie(BUT) informatique à
+Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire de Technologie (BUT) informatique à
 Lannion (23).
 
-Vous retrouverez sur ce Github tout mes projets que j'ai réalisé, qu'ils soient personnel ou universitaire :
+Vous retrouverez sur ce GitHub tous mes projets que j'ai réalisés, qu'ils soient personnel ou universitaire :
 
 * [Projet en Python](https://github.com/MrIdez/projet-python)
 
@@ -40,7 +25,7 @@ Vous retrouverez sur ce Github tout mes projets que j'ai réalisé, qu'ils soien
 
 I'm Guillaume Baron, student in first year of Bachelor Universitaire de Technologie(BUT) in Lannion (Britany, France).
 
-You will find on this Github all my projects that I realized during my studies:
+You will find on this GitHub all my projects that I realized during my studies:
 
 * [Project in Python](https://github.com/MrIdez/projet-python)
 
@@ -59,7 +44,7 @@ You will find on this Github all my projects that I realized during my studies:
    <ul>
        <li>
             Web : 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HMTL" alt="HTML5" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML5" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS3" width="40" height="40"/>&nbsp;   
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         </li>
