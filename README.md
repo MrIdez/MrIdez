@@ -80,4 +80,4 @@ You will find on this GitHub all my projects that I realized during my studies:
 
 ## 🔗 Links
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guillaume-baron" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/guillaume-baron?trk=profile-badge">Guillaume Baron</a></div>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guillaume-baron" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/guillaume-baron?trk=profile-badge">Linkedin</a></div>
