@@ -4,7 +4,7 @@
 
 [EN](#en)
 
-Je suis Guillaume Baron, étudiant en première année de Bachelor Universitaire de Technologie (BUT) informatique à
+Je suis Guillaume Baron, étudiant en deuxième année de Bachelor Universitaire de Technologie (BUT) informatique à
 Lannion (23).
 
 Vous retrouverez sur ce GitHub tous mes projets que j'ai réalisés, qu'ils soient personnels ou universitaires :
@@ -80,4 +80,4 @@ You will find on this GitHub all my projects that I realized during my studies:
 
 ## 🔗 Links
 
-<a href="https://www.linkedin.com/in/guillaume-baron-695223269/" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yanis-fouad-871170262" height="30" width="30" /></a>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guillaume-baron" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/guillaume-baron?trk=profile-badge">Guillaume Baron</a></div>
