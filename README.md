@@ -4,10 +4,9 @@
 
 [EN](#en)
 
-Je suis Guillaume Baron, étudiant en deuxième année de Bachelor Universitaire de Technologie (BUT) informatique à
-Lannion (23).
+Je suis Guillaume Baron, étudiant en première année du cycle ingénieur à l'ESIR (35) en spécialité informatique.
 
-Vous retrouverez sur ce GitHub tous mes projets que j'ai réalisés, qu'ils soient personnels ou universitaires :
+Vous retrouverez sur ce GitHub certains mes projets que j'ai réalisés, qu'ils soient personnels ou universitaires :
 
 * [Projet en Python](https://github.com/MrIdez/projet-python)
 
@@ -16,24 +15,6 @@ Vous retrouverez sur ce GitHub tous mes projets que j'ai réalisés, qu'ils soie
 * [Situation d'apprentissage et d'évaluation (SAE) réalisé lors de mon BUT](https://github.com/MrIdez/SAE)
 
 * [Projet ”Site web bataille”](https://github.com/MrIdez/Bataille_React)
-
-—
-
-#### EN
-
-[FR](#FR)
-
-I'm Guillaume Baron, student in first year of Bachelor Universitaire de Technologie(BUT) in Lannion (Britany, France).
-
-You will find on this GitHub all my projects that I realized during my studies:
-
-* [Project in Python](https://github.com/MrIdez/projet-python)
-
-* ["Site web bataille" Project](https://github.com/MrIdez/Bataille_React)
-
-* [Project in Java](https://github.com/MrIdez/Projet_Java)
-
-* [Situation of learning and evaluation (SAE) realized during my BUT](https://github.com/MrIdez/SAE)
 
 —
 
